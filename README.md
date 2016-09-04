@@ -1,5 +1,4 @@
 #github-update-checker
-[Nuzhath Ideas Abu Dhabi Desert Safari](https://www.abudhabidesertsafari.org)
 
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
